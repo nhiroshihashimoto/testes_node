@@ -4,6 +4,8 @@
 > Mocha (global) e Chai (desenvolvedor)
 
 ### Implementação
+Crie um arquivo package.json:
+
 ```
 create file package.json
 ```
